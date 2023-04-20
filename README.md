@@ -1,16 +1,16 @@
-### Hi there 👋
+## Olá!! Eu sou o Alessandro Josino
+- 📚 Atualmente estou estudando
+- ✅ Pretendo ser front-end
 
-<!--
-**ALeJosino/ALeJosino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/josino_html?igshid=MTIzZWQxMDU=)
 
-Here are some ideas to get you started:
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=ALeJosino&show_icons=true&theme=dracula&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que eu uso no meu dia
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="ALe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="ALe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="ALe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="ALe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
